@@ -56,8 +56,7 @@ function App() {
         ) : (
           <div className="card">
             <h3>Select an API</h3>
-            <p>Click a name from the left list to see details here.</p>
-            <p>click now</p>
+            <p>Click Name from the Api list to see details here.</p>
           </div>
         )}
       </div>
